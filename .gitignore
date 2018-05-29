@@ -3,6 +3,11 @@
 # dependencies
 /node_modules
 
+package-lock.json
+
+# Caddy
+Caddyfile
+
 # testing
 /coverage
 
